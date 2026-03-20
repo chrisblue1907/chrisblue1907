@@ -10,8 +10,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/chrisblue1907/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chrisblue1907/azure-network-protocols)
-
-<h2>🤳Connect with me:</h2>
+- <b>Network Infrastructure and Networking</b>
+  - [VLAN Segmented Network Design](https://github.com/chrisblue1907/vlan-segmented-network-design)
 
 [<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Chris | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
